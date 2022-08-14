@@ -1,3 +1,3 @@
 # BBeLogs
 
-<embed src="Odencat-#blockbros" width="825" height="600"></embed>
+<embed src="index.html" width="825" height="600"></embed>
